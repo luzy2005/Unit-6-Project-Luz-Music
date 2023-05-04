@@ -1,0 +1,46 @@
+body {
+    background-color: #b24d86;
+    text-align: center;
+    color: white;
+    padding: 100px;
+    border: 10px double white;
+
+    font-family: 'Quantico', cursive;
+}
+
+
+
+input {
+    width: 75%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    text-align: center;
+    font-family: 'Quantico', cursive;
+}
+
+button {
+    border: 5px solid white;
+    background-color: pink;
+
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    font-family: 'Quantico', cursive;
+}
+
+img {
+    border: 5px solid white;
+    width: 200px;
+    height: 200px;
+}
+
+
+.pop-icon {
+    width: 200px;
+    border: none;
+}
